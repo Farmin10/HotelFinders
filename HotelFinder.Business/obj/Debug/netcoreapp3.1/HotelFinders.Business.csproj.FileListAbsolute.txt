@@ -1,0 +1,14 @@
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.Business.deps.json
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.Business.dll
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.Business.pdb
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.DataAccess.dll
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.Entities.dll
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.DataAccess.pdb
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinders.Entities.pdb
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.csprojAssemblyReference.cache
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.AssemblyInfoInputs.cache
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.AssemblyInfo.cs
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.csproj.CoreCompileInputs.cache
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.csproj.CopyComplete
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.dll
+C:\Users\farmi\source\repos\HotelFinders\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinders.Business.pdb
